@@ -2,7 +2,11 @@
     margin: 0;
     padding: 0;
    }
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 93c63856f0aef64b94b34fb40fe44bafea15bb1a
    header,
    footer {
     width: 100%;
@@ -10,12 +14,20 @@
     background-color: blue;
     color: white;
    }
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 93c63856f0aef64b94b34fb40fe44bafea15bb1a
    h1,
    h2 {
     text-align: center;
    }
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 93c63856f0aef64b94b34fb40fe44bafea15bb1a
    img {
     display: block;
     height: 50px;
@@ -23,12 +35,20 @@
     margin-left: auto;
     margin-right: auto;
    }
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 93c63856f0aef64b94b34fb40fe44bafea15bb1a
    ul {
     padding-left: 40px;
     font-size: 20px;
    }
+<<<<<<< HEAD
 
+=======
+   
+>>>>>>> 93c63856f0aef64b94b34fb40fe44bafea15bb1a
    p {
     text-align: center;
     font-size: 30px;
